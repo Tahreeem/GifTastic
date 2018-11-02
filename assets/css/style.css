@@ -1,0 +1,24 @@
+body {
+    margin: 2vw;
+}
+
+.Buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-direction: row;
+    height: 20vh;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+.Results {
+    display: inline-block;
+    border: solid;
+    border-color: black;
+    margin: 10px;
+}
+
+.btn {
+    margin: 2px;
+}
